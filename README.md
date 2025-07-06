@@ -23,3 +23,4 @@
 4. Assumptions:
    - Risk-free rate = 6%
    - Ignore transaction costs, taxes, and other real-world constraint
+5. [source code](https://github.com/manjusha-01-i/portfolio_optimization/blob/main/monte_carlo_portfolio.ipynb)
