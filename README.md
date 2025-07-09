@@ -1,6 +1,6 @@
 # portfolio_optimization
 1. Select a Portfolio:
-   Choose 4–5 Indian stocks listed on the NSE. For this assignment, use:
+   Choose 4 Indian stocks listed on the NSE. For this assignment, use:
    - HDFCBANK.NS
    - INFY.NS
    - RELIANCE.NS
